@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Week 10</title>
+</head>
+<body>
+        <svg width="500px" height="800px" style="border: black solid 1px" >
+            <line x1="450" y1="20" x2="450" y2="500"
+                style="stroke: #e21818; stroke-width: 20; stroke-opacity: 0.5;"
+            />
+            <rect x="300" y="20" height="200" width="100" rx="30"
+                style="stroke: #4c00ff; stroke-width: 10; stroke-dasharray: 10;
+                        fill: #ff00d4;"
+            />
+             <circle cx="90" cy="450" r="50"
+                style="stroke: #ff00ff; stroke-width: 2; fill: #e8b3e8; fill-opacity: 0.6;"
+            />
+            <polygon points="45,40 80,80 80,200, 360,500 230,150"
+                style="stroke: #002fff; stroke-width: 8; fill: #ff0000;"
+            />
+            <text x="80" y="700" style="fill:#e21818; font-size:80px">
+                Ini Rista ;)
+            </text>
+    </svg>
+</body>
